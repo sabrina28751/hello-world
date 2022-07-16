@@ -8,3 +8,4 @@ print('Quantity sold: ' + str(quantity_of_item))
 print('Unit price: ' + str(item_price))
 total = quantity_of_item * item_price
 print('Total: ' + str(total))
+
