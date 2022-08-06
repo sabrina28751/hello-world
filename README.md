@@ -1,23 +1,25 @@
 # hello-world
 
-git add . = adds all
+1 - `git add .` = adds all
 
-git add your_file_name = add one
+1 - `git add your_file_name` = add one
 
-git status = check where you are at
+2 - `git status` = check where you are at
 
-git commit -m "your_detailed_message"
+3 - `git commit -m "your_detailed_message"`
 
-git push origin your_branch_name = push code to branch
+4 - `git push origin your_branch_name` = push code to branch
 
-git clone your_ssh_adresss_here = pulls code from git to computor
+-------------------------------------------------
 
-git checkout -b name_of_branch_here = adding branch
+`git clone your_ssh_address_here` = pulls code from git to computor
 
-git branch -d branch_name = getting rid of branch
+`git checkout -b name_of_branch_here` = adding branch
 
-git checkout branch_name = switch to existing branch
+`git branch -d branch_name` = getting rid of branch
 
-cd = change directory
+`git checkout branch_name` = switch to existing branch
 
-ls -la = chekc files
+`cd` = change directory
+
+`ls -la` = check files
