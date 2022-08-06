@@ -19,7 +19,7 @@ if beginning_player == 'blue':
 
 
 want_to_quit = ''
-doubles = 2
+doubles = 0
 underline = '-------------------------------------------------'
 snake_eyes = 0
 
